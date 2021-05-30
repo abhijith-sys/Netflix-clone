@@ -1,0 +1,17 @@
+.rows{
+   margin-left: 10px;
+   
+   background-size: contain;
+   background-repeat: no-repeat;
+    color: white;
+    cursor:pointer;
+    height: 300px;
+    width: 100%;
+    margin-right: 10px;
+
+   
+    
+}
+.mrow{
+    display: flex;
+}
